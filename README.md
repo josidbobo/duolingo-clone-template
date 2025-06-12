@@ -16,8 +16,8 @@ This project is a clone of Duolingo, built using modern web technologies. It fea
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/RikhiSingh/Duolingo-Clone.git
-   cd Duolingo-Clone
+   git clone https://github.com/josidbobo/duolingo-clone-template.git
+   cd duolingo-clone-template
    
 2. **Install Dependencies**
    ```bash
